@@ -1,0 +1,6 @@
+{
+  "name": "Муха против Мухобоек",
+  "description": "Захватывающая аркадная игра, где вы играете за муху, уклоняетесь от ударов мухобоек, используете супер-рывок, собираете сахар и бьете рекорды!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
